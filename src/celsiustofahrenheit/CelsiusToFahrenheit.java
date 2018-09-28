@@ -26,6 +26,7 @@ public class CelsiusToFahrenheit {
         Celsius = scanner.nextFloat();
         Fahrenheit = (9.0/5.0*Celsius)+32;
                 
-    System.out.print("Your Farenheight number ="+Fahrenheit);
+    System.out.print("Your Farenheight number:  "+Fahrenheit);
+    
     }
 }
